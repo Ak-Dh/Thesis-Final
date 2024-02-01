@@ -37,6 +37,7 @@ This project implements pedestrian detection in images and videos using YOLO (Yo
     python3 -m venv venv
     source venv/bin/activate
     ```
+4. Make sure to place the videos into data/vid folder
 
 ## Usage
 
