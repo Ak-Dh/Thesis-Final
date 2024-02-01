@@ -1,0 +1,176 @@
+Video ID: video1
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 3
+True Negatives: 160
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video2
+Results:
+False Positives: 18
+False Negatives: 16
+True Positives: 15
+True Negatives: 83
+Precision: 0.8217821782178217
+Recall: 0.8383838383838383
+F1 Score: 0.83
+Accuracy: 0.7424242424242424
+
+Video ID: video3
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 0
+True Negatives: 6
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video4
+Results:
+False Positives: 34
+False Negatives: 0
+True Positives: 33
+True Negatives: 215
+Precision: 0.8634538152610441
+Recall: 1.0
+F1 Score: 0.9267241379310344
+Accuracy: 0.8794326241134752
+
+Video ID: video5
+Results:
+False Positives: 19
+False Negatives: 19
+True Positives: 71
+True Negatives: 92
+Precision: 0.8288288288288288
+Recall: 0.8288288288288288
+F1 Score: 0.8288288288288288
+Accuracy: 0.8109452736318408
+
+Video ID: video6
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 0
+True Negatives: 370
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video7
+Results:
+False Positives: 1
+False Negatives: 49
+True Positives: 16
+True Negatives: 45
+Precision: 0.9782608695652174
+Recall: 0.4787234042553192
+F1 Score: 0.6428571428571429
+Accuracy: 0.5495495495495496
+
+Video ID: video8
+Results:
+False Positives: 12
+False Negatives: 0
+True Positives: 26
+True Negatives: 126
+Precision: 0.9130434782608695
+Recall: 1.0
+F1 Score: 0.9545454545454545
+Accuracy: 0.926829268292683
+
+Video ID: video9
+Results:
+False Positives: 27
+False Negatives: 26
+True Positives: 41
+True Negatives: 26
+Precision: 0.49056603773584906
+Recall: 0.5
+F1 Score: 0.49523809523809526
+Accuracy: 0.5583333333333333
+
+Video ID: video10
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 0
+True Negatives: 104
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video11
+Results:
+False Positives: 108
+False Negatives: 0
+True Positives: 0
+True Negatives: 323
+Precision: 0.7494199535962877
+Recall: 1.0
+F1 Score: 0.8567639257294429
+Accuracy: 0.7494199535962877
+
+Video ID: video12
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 0
+True Negatives: 289
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video13
+Results:
+False Positives: 1
+False Negatives: 0
+True Positives: 0
+True Negatives: 305
+Precision: 0.9967320261437909
+Recall: 1.0
+F1 Score: 0.9983633387888707
+Accuracy: 0.9967320261437909
+
+Video ID: video14
+Results:
+False Positives: 0
+False Negatives: 0
+True Positives: 2
+True Negatives: 250
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Accuracy: 1.0
+
+Video ID: video15
+Results:
+False Positives: 64
+False Negatives: 1
+True Positives: 57
+True Negatives: 57
+Precision: 0.47107438016528924
+Recall: 0.9827586206896551
+F1 Score: 0.6368715083798882
+Accuracy: 0.6368715083798883
+
+Video ID: video16
+Results:
+False Positives: 43
+False Negatives: 0
+True Positives: 42
+True Negatives: 40
+Precision: 0.4819277108433735
+Recall: 1.0
+F1 Score: 0.6504065040650406
+Accuracy: 0.656
+
