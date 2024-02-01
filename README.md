@@ -15,6 +15,7 @@ This project implements pedestrian detection in images and videos using YOLO (Yo
 - Python 3.6 or higher
 - Virtual environment (optional but recommended)
 - Download the JAAD annotations and JAAD Clips from https://github.com/ykotseruba/JAAD
+- Download YOLO weights from https://pjreddie.com/media/files/yolov3.weights
 
 ## Setup
 
